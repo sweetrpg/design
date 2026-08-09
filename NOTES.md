@@ -1,0 +1,3 @@
+# Notes
+
+OpenFGA for authorization?
