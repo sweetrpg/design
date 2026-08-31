@@ -16,6 +16,14 @@ Error page icons:
 
 ## Feedback
 
+### Event processing
+
+Probably already have OpenSpec change for this:
+- Use NATS+Jetstream for message processing
+- Wire up catalog-api to publish entity change vents
+- Wire up game-room-api to update volume titles on volume update
+- Document message structure
+
 ### User Profile
 
 - pictures of your actual shelves, limit 10
