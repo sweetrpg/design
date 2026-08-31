@@ -21,3 +21,4 @@ Error page icons:
 - username?
 - bio/description
 - birthday (month, day only)
+- messages from other users
