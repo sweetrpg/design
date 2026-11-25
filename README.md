@@ -5,6 +5,10 @@
 * [Architecture](Architecture.md)
 * [Figma](https://www.figma.com/)
 
+## Icons
+
+UI icons are defined in the platform's [icon vocabulary](https://github.com/sweetrpg/platform/blob/master/docs/visual-design-conventions.md#icon-vocabulary): one icon per action, with source and license.
+
 ## Concepts
 
 <a name="audit"></a>
